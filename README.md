@@ -1,5 +1,7 @@
 # 📦 DTDC Monthly Consignment Analytics Dashboard – 2025
-
+<p align="center">
+  <img src="https://github.com/Nagendra7290/This-dashboard-analyzes-DTDC-consignment-performance-for-2025/blob/main/Screenshot%202026-01-06%20214643.png" alt="DTDC Monthly Consignment Dashboard 2025" width="100%">
+</p>
 🚚 **End-to-End Logistics Performance Analysis | Business Intelligence | Power BI**
 
 This project delivers a **comprehensive analytical dashboard** for **DTDC’s monthly consignment operations in 2025**, providing clear visibility into **shipment volume, revenue trends, regional performance, transport modes, customer behavior, and payment preferences**.  
