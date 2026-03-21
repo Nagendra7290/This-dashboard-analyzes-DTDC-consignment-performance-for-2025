@@ -1,6 +1,6 @@
 # 📦 DTDC Monthly Consignment Analytics Dashboard – 2025
 <p align="center">
-  <img src="https://github.com/Nagendra7290/This-dashboard-analyzes-DTDC-consignment-performance-for-2025/blob/main/Screenshot%202026-01-06%20214643.png" alt="DTDC Monthly Consignment Dashboard 2025" width="100%">
+  <img src="https://github.com/Nagendra7290/This-dashboard-analyzes-DTDC-consignment-performance-for-2025/blob/main/Screenshot%202026-03-22%20022234.png" alt="DTDC Monthly Consignment Dashboard 2025" width="100%">
 </p>
 🚚 **End-to-End Logistics Performance Analysis | Business Intelligence | Power BI**
 
