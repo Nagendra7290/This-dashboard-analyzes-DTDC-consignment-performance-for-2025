@@ -19,7 +19,7 @@ To analyze **monthly consignment data (June & July 2025)** and:
 
 ---
 
-## 📊 Dataset Overview  
+## Dataset Overview  
 
 - **Booking Month & Date** – The time period when the shipment/order was booked.  
 - **Sender State** – The originating state from where the shipment was dispatched.  
