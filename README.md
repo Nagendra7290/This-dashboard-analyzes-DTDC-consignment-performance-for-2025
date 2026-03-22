@@ -19,17 +19,16 @@ To analyze **monthly consignment data (June & July 2025)** and:
 
 ---
 
-## Dataset Overview
+## 📊 Dataset Overview  
 
-The dataset includes:
-- Booking Month & Date
-- Sender State
-- Total Pieces
-- Total Amount
-- Mode of Transport
-- Nature of Consignment (Dox / Non-Dox)
-- Customer Relationship Type
-- Mode of Payment
+- **Booking Month & Date** – The time period when the shipment/order was booked.  
+- **Sender State** – The originating state from where the shipment was dispatched.  
+- **Total Pieces** – The total number of packages/items included in the shipment.  
+- **Total Amount** – The total revenue or cost associated with the shipment.  
+- **Mode of Transport** – The transportation method used (e.g., air, road, rail).  
+- **Nature of Consignment (Dox / Non-Dox)** – Indicates whether the shipment contains documents (Dox) or non-document goods (Non-Dox).  
+- **Customer Relationship Type** – Defines the type of customer (e.g., regular, corporate, new, or walk-in).  
+- **Mode of Payment** – The payment method used for the transaction (e.g., prepaid, COD, credit).  
 
 ---
 
