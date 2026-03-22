@@ -1,4 +1,4 @@
-# 📦 DTDC Monthly Consignment Analytics Dashboard – 2025
+# DTDC Monthly Consignment Analytics Dashboard – 2025
 <p align="center">
   <img src="https://github.com/Nagendra7290/This-dashboard-analyzes-DTDC-consignment-performance-for-2025/blob/main/Screenshot%202026-03-22%20022234.png" alt="DTDC Monthly Consignment Dashboard 2025" width="100%">
 </p>
@@ -161,11 +161,6 @@ The dataset includes:
 
 ---
 
-## 📷 Dashboard Preview
-
-> *(Add dashboard screenshots here for better visual impact)*
-
----
 
 ## 🚀 Why This Project Matters
 
